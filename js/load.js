@@ -7,7 +7,7 @@
 	function frame() {
 		if(loading == 100) {
 			clearInterval(id);
-			window.open("khanyagon.html" ,"_self"); 
+			window.open("Khanyagon.html" ,"_self"); 
 		}else{
 			loading = loading + 1;
 			if(loading == 90){
